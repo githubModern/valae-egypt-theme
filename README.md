@@ -1,6 +1,12 @@
 # Valae Egypt - Multi-Site Brand WordPress Theme
 
-## 🚀 Project Overview
+## �️ Project Showcase
+
+![Valae Egypt Theme](./assets/screenshot.png)
+
+*Note: Screenshot shows the homepage design with hero section, product showcases, and brand elements.*
+
+## �🚀 Project Overview
 
 Developed a premium WordPress theme for Valae Egypt, a multi-site beauty and cosmetics brand featuring multiple product lines and e-commerce capabilities.
 
